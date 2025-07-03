@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/mattheusva/adopet-cypress#readme",
   "devDependencies": {
-    "cypress": "^14.5.1"
+    "cypress": "^14.5.1",
+    "mochawesome": "^7.1.3"
   }
 }
