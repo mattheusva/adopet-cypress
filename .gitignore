@@ -13,6 +13,7 @@ yarn-error.log*
 .env.production
 
 # Cypress
+cypress.env.json
 cypress/downloads/
 cypress/screenshots/
 cypress/videos/
