@@ -42,18 +42,7 @@ bash
 bash
 
     npx cypress run --reporter mochawesome
-
-## 📂 Estrutura do Projeto
-
-text
-
-cypress/
-├── e2e/            # Testes automatizados
-├── fixtures/       # Dados de teste (JSON)
-├── support/        # Comandos personalizados
-├── downloads/      # Arquivos baixados nos testes
-├── screenshots/    # Capturas de tela de falhas
-└── videos/         # Gravações das execuções
+    
 
 ## 🌟 Destaques do Projeto
 
