@@ -1,0 +1,39 @@
+{
+  "usuarios": [
+    {
+      "name": "Steve Rogers",
+      "email": "steve.rogers@avengers.com",
+      "password": "CaptainAmerica456"
+    },
+    {
+      "name": "Natasha Romanoff",
+      "email": "natasha.romanoff@shield.gov",
+      "password": "BlackWidow789"
+    },
+    {
+      "name": "Bruce Banner",
+      "email": "bruce.banner@gamma-lab.edu",
+      "password": "HulkSmash!123"
+    },
+    {
+      "name": "Thor Odinson",
+      "email": "thor@asgard.realm",
+      "password": "Mjolnir987"
+    },
+    {
+      "name": "Wanda Maximoff",
+      "email": "wanda.maximoff@avengers.com",
+      "password": "ScarletWitch321"
+    },
+    {
+      "name": "Vision",
+      "email": "vision@avengers.com",
+      "password": "JarvisAI2023"
+    },
+    {
+      "name": "Bucky Barnes",
+      "email": "bucky.barnes@wakanda.gov",
+      "password": "WinterSoldier123"
+    }
+  ]
+}
